@@ -11,8 +11,8 @@ const config = {
   bot: {
     username: '247Bot', // Change to your desired bot name
     auth: 'offline', // 'offline', 'microsoft', or 'mojang'
-    password: '', // Minecraft account password (if using premium auth)
-    authmePassword: 'change_this_password' // AuthMe password for /register and /login
+    password: 'Xbeamer242', // Minecraft account password (if using premium auth)
+    authmePassword: 'Xbeamer242' // AuthMe password for /register and /login
   },
   serverCommands: {
     enabled: true,
